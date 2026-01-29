@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/KazakhGamesLab/loto-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/KazakhGamesLab/loto-vite-vue.git
+[submodule "bot"]
+	path = bot
+	url = https://github.com/KazakhGamesLab/loto-aiogram.git
